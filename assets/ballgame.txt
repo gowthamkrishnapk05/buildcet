@@ -1,0 +1,2 @@
+libraries used:open cv and numpy
+Image was generated using numpy itself ,so no input images in the pjt,run the code for getting the results
